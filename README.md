@@ -180,6 +180,3 @@ For improvements, issues, or collaboration:
 vinaykumar031vk@gmail.com
 
 ***
-
-[1](https://github.com/imvinxx/Stock_Market_Trend_Analysis_and_Predictive_Insights/raw/refs/heads/main/Stock_Market_Trend_Analysis_&amp;_Predictive_Insights.ipynb)
-[2](https://github.com/imvinxx/Stock_Market_Trend_Analysis_and_Predictive_Insights/edit/main/Stock_Market_Trend_Analysis_%26_Predictive_Insights.ipynb)
